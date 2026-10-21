@@ -3,6 +3,21 @@
     <channel>
         <title>LLMeter</title>
         <item>
+            <title>1.1.2</title>
+            <pubDate>Wed, 21 Oct 2026 20:51:22 +0200</pubDate>
+            <link>https://github.com/appnoe/homebrew-llmeter</link>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Behoben</h3>
+<ul>
+<li>Kalibrierung: Jedes Feld meldet sein eigenes Ergebnis. Fehlt im 5-Stunden-Fenster oder seit dem Wochen-Reset lokale Nutzung, sagt LLMeter das jetzt genau, statt einer allgemeinen Fehlermeldung. Eingegebene Werte zählen auch ohne Return, und das Blatt schließt nur, wenn alles übernommen wurde.</li>
+<li>Hinweis im Kalibrierblatt: LLMeter sieht nur Claude Code und die Claude-App auf diesem Mac, nicht die Nutzung im Browser oder auf dem Handy.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/appnoe/homebrew-llmeter/releases/download/v1.1.2/LLMeter-1.1.2.dmg" length="1916866" type="application/octet-stream" sparkle:edSignature="IXStRoECNoPX2y1P1T/eI/t1p3cniKnMcmKZ5JjZSTpVt1GYM+XO8YxRMlz9yNF35whMwGYJ6CEChKY6ENXmDQ=="/>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Wed, 21 Oct 2026 15:00:48 +0200</pubDate>
             <link>https://github.com/appnoe/homebrew-llmeter</link>
