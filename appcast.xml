@@ -3,6 +3,20 @@
     <channel>
         <title>LLMeter</title>
         <item>
+            <title>1.1.4</title>
+            <pubDate>Wed, 21 Oct 2026 22:19:22 +0200</pubDate>
+            <link>https://github.com/appnoe/homebrew-llmeter</link>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Geändert</h3>
+<ul>
+<li>Die Fußleiste im Fenster der Menüleiste zeigt alle Aktionen als Symbole: Aktualisieren (⌘R), Über, Einstellungen (⌘,) und Beenden (⌘Q). Der Name steht im Tooltip und für VoiceOver.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/appnoe/homebrew-llmeter/releases/download/v1.1.4/LLMeter-1.1.4.dmg" length="1921967" type="application/octet-stream" sparkle:edSignature="e0134ko3kzPVIKhFV+XnVE7qhps6Pi5t7f+utIKXPgfE9rA1u/TywxXnuKxlnxFZro7VTUF23JSuvuTXaCx8CA=="/>
+        </item>
+        <item>
             <title>1.1.3</title>
             <pubDate>Wed, 21 Oct 2026 21:44:13 +0200</pubDate>
             <link>https://github.com/appnoe/homebrew-llmeter</link>
@@ -30,20 +44,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/appnoe/homebrew-llmeter/releases/download/v1.1.2/LLMeter-1.1.2.dmg" length="1916866" type="application/octet-stream" sparkle:edSignature="IXStRoECNoPX2y1P1T/eI/t1p3cniKnMcmKZ5JjZSTpVt1GYM+XO8YxRMlz9yNF35whMwGYJ6CEChKY6ENXmDQ=="/>
-        </item>
-        <item>
-            <title>1.1.1</title>
-            <pubDate>Wed, 21 Oct 2026 15:00:48 +0200</pubDate>
-            <link>https://github.com/appnoe/homebrew-llmeter</link>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Behoben</h3>
-<ul>
-<li>Das Einstellungsfenster passt seine Höhe an, wenn sich der Inhalt ändert, etwa wenn unter „Plan“ ein Plan gewählt wird. Bisher blieben die zusätzlichen Einstellungen abgeschnitten.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/appnoe/homebrew-llmeter/releases/download/v1.1.1/LLMeter-1.1.1.dmg" length="1903098" type="application/octet-stream" sparkle:edSignature="uVq+QrVZov9rHZ5yuL62xB0xYKZEZ3fT5oOERU0ige7HpYHue1Pnaca28I8edNLllce1kg1h9OqPSdySJEj9Aw=="/>
         </item>
     </channel>
 </rss>

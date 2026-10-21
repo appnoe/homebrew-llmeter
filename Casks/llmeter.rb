@@ -1,6 +1,6 @@
 cask "llmeter" do
-  version "1.1.3"
-  sha256 "6ef797a49d4739ce88f355d731ea2246c8dc9c5408bcbb365973b8650069e523"
+  version "1.1.4"
+  sha256 "ffcad40e6a9b2735fdb5c6335c09f43a6c953b1a9d8b27f9075fe25597cc5df2"
 
   url "https://github.com/appnoe/homebrew-llmeter/releases/download/v#{version}/LLMeter-#{version}.dmg"
   name "LLMeter"
