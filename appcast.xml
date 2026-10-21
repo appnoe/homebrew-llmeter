@@ -3,6 +3,31 @@
     <channel>
         <title>BeanCounter</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Wed, 21 Oct 2026 14:18:02 +0200</pubDate>
+            <link>https://github.com/appnoe/homebrew-llmeter</link>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Geändert</h3>
+<ul>
+<li>BeanCounter heißt jetzt LLMeter, mit der Bundle-ID <code>com.appnoe.llmeter</code>. Homebrew: <code>brew install --cask appnoe/llmeter/llmeter</code>.</li>
+</ul>
+<h3>Hinzugefügt</h3>
+<ul>
+<li>Einstellungsfenster (Zahnrad im Fenster oder ⌘,) mit den Bereichen Allgemein, Plan und Updates.</li>
+<li>Claude-Plan wählbar: Pro, Max, Team Standard/Premium, Enterprise oder API.</li>
+<li>Abos: Verbrauch im aktuellen 5-Stunden-Fenster und in der Woche seit dem Reset, mit Zeit bis zum Reset. Nach einer Kalibrierung mit den Prozentwerten aus claude.ai › Einstellungen › Nutzung zeigt LLMeter den geschätzten Rest und wann das Limit beim aktuellen Tempo erreicht ist.</li>
+<li>Mit aktivierten Nutzungsguthaben schätzt LLMeter die Kosten der Nutzung über den Limits.</li>
+<li>API: Monatsbudget in USD mit Rest und Prognose, wann es aufgebraucht ist.</li>
+<li>Wahlweise zeigt die Menüleiste den Rest statt der Tagessumme.</li>
+<li>„Über LLMeter“ (ⓘ im Fenster) mit Version, Herausgeber Appnö GmbH samt Impressumsangaben, Appnö-Logo (positiv im hellen, negativ im dunklen Modus) und der Lizenz von Sparkle unter „Danksagungen …“ ([#1](https://github.com/appnoe/LLMeter/issues/1)).</li>
+<li>LLMeter ist jetzt auch auf Französisch, Spanisch, Italienisch, Japanisch und Chinesisch (vereinfacht) verfügbar, mit korrekten Pluralformen ([#2](https://github.com/appnoe/LLMeter/issues/2)).</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/appnoe/homebrew-llmeter/releases/download/v1.1.0/LLMeter-1.1.0.dmg" length="1901310" type="application/octet-stream" sparkle:edSignature="CGueb42++MZ43R8cUg5DtKPxGfha2Bf2hmNHyH3twDlhHUrpu6MkJYNBpLwMahfHdiJXm7lp3c7TfeQnemInDQ=="/>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Wed, 21 Oct 2026 00:28:24 +0200</pubDate>
             <link>https://github.com/appnoe/homebrew-beancounter</link>
