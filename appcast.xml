@@ -3,6 +3,20 @@
     <channel>
         <title>LLMeter</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Wed, 21 Oct 2026 15:00:48 +0200</pubDate>
+            <link>https://github.com/appnoe/homebrew-llmeter</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Behoben</h3>
+<ul>
+<li>Das Einstellungsfenster passt seine Höhe an, wenn sich der Inhalt ändert, etwa wenn unter „Plan“ ein Plan gewählt wird. Bisher blieben die zusätzlichen Einstellungen abgeschnitten.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/appnoe/homebrew-llmeter/releases/download/v1.1.1/LLMeter-1.1.1.dmg" length="1903098" type="application/octet-stream" sparkle:edSignature="uVq+QrVZov9rHZ5yuL62xB0xYKZEZ3fT5oOERU0ige7HpYHue1Pnaca28I8edNLllce1kg1h9OqPSdySJEj9Aw=="/>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Wed, 21 Oct 2026 14:18:02 +0200</pubDate>
             <link>https://github.com/appnoe/homebrew-llmeter</link>
