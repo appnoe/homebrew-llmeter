@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
-        <title>BeanCounter</title>
+        <title>LLMeter</title>
         <item>
             <title>1.1.0</title>
             <pubDate>Wed, 21 Oct 2026 14:18:02 +0200</pubDate>
@@ -26,24 +26,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/appnoe/homebrew-llmeter/releases/download/v1.1.0/LLMeter-1.1.0.dmg" length="1901310" type="application/octet-stream" sparkle:edSignature="CGueb42++MZ43R8cUg5DtKPxGfha2Bf2hmNHyH3twDlhHUrpu6MkJYNBpLwMahfHdiJXm7lp3c7TfeQnemInDQ=="/>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Wed, 21 Oct 2026 00:28:24 +0200</pubDate>
-            <link>https://github.com/appnoe/homebrew-beancounter</link>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Hinzugefügt</h3>
-<ul>
-<li>Anzeige der effektiven Token von heute in der Menüleiste, mit Verlauf der letzten 7 Tage und Aufteilung nach Gruppen.</li>
-<li>Geschätzte Kosten zu den Listenpreisen der Claude API, für heute, die Woche und jede Zeile der Aufteilung.</li>
-<li>Aufteilung umschaltbar nach Gruppen, Modellen und Projekten; Subagenten nach Typ.</li>
-<li>BeanCounter aktualisiert sich selbst mit Sparkle: Update-Menü im Fenster mit „Nach Updates suchen…“ und automatischer Suche. Updates müssen mit dem Release-Schlüssel von BeanCounter signiert sein.</li>
-<li>Releases sind mit Developer ID signiert, von Apple notarisiert und als Disk-Image sowie als Homebrew-Cask (<code>brew install --cask appnoe/beancounter/beancounter</code>) erhältlich. [Unreleased]: https://github.com/appnoe/BeanCounter/compare/v1.0.0...HEAD [1.0.0]: https://github.com/appnoe/BeanCounter/releases/tag/v1.0.0</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/appnoe/homebrew-beancounter/releases/download/v1.0.0/BeanCounter-1.0.0.dmg" length="1581522" type="application/octet-stream" sparkle:edSignature="BXX4yWH6fZdh1W1XSxpcWSyyDusoxy2k1YsGRiVGxJtvjkBBeneZZ77D19dwBbDbC7zsGd3Qx1KcarIpj36/Ag=="/>
         </item>
     </channel>
 </rss>
